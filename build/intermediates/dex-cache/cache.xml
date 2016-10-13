@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/DATA/Users/bill/Google Drive/MAD XXX Android Tools/Solution Files/Chapter 09/Chapter Project/BikeandBarge/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Volumes/DATA/Users/bill/Google Drive/MAD XXX Android Tools/Solution Files/Chapter 09/Chapter Project/BikeandBarge/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d9539d759a7b0489658ef124d3725abef8fea28e.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bill/Google Drive/MAD XXX Android Tools/Solution Files/Chapter 09/Chapter Project/BikeandBarge/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Volumes/DATA/Users/bill/Google Drive/MAD XXX Android Tools/Solution Files/Chapter 09/Chapter Project/BikeandBarge/app/build/intermediates/pre-dexed/debug/classes-a1d08c8642d593668dd145b035ae9d3591ce6b05.jar" />
+    </item>
+    <item
+        jar="/Volumes/DATA/Users/bill/Google Drive/MAD XXX Android Tools/Solution Files/Chapter 09/Chapter Project/BikeandBarge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Volumes/DATA/Users/bill/Google Drive/MAD XXX Android Tools/Solution Files/Chapter 09/Chapter Project/BikeandBarge/app/build/intermediates/pre-dexed/debug/classes-64ecb73f61e19c4f496d0f4bcd347cce0ba12d8d.jar" />
+    </item>
+    <item
+        jar="/Users/bill/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Volumes/DATA/Users/bill/Google Drive/MAD XXX Android Tools/Solution Files/Chapter 09/Chapter Project/BikeandBarge/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-88097e048acc684340128af4d7a9849675f69cf9.jar" />
+    </item>
+
+</items>
